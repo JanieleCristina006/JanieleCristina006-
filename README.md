@@ -30,5 +30,7 @@
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/main/instagram.png">
     </a>
 </div>
+
+![Snake animation](https://github.com/JanieleCristina006/JanieleCristina006/blob/output/github-contribution-grid-snake.svg)
   
 
